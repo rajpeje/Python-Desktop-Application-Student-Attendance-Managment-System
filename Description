@@ -8,6 +8,6 @@ It is used to track student's attendance, absentee record, attendance history & 
 Install required Python Modules
 
 To create exe file of this python code:
-In windows,type this command inn command prompt.
+In windows,type this command in command prompt.
 cmd command: pyinstaller --onefile -F --hidden-import "babel.numbers" project_name.py
 
