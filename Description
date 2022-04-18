@@ -1,0 +1,13 @@
+Manually taking attendance and registering it in files & musters makes the daily attendance a mundane task for the faculty and unnecessarily consumes classroom time.
+To overcome such inefficient work processes, there are various school software systems available to speed up the attendance process and reduce manual work.
+A Digital Attendance platform is one of them. Additionally, it helps to maintain accurate records and generate summarized student attendance reports.
+Student attendance software allows you to record & manage daily student attendance to speed up the daily attendance process. 
+Student attendance system helps teachers to mark online attendance of students during class & reduce manual work. 
+It is used to track student's attendance, absentee record, attendance history & allows teachers to generate 100% accurate student attendance reports.
+
+Install required Python Modules
+
+To create exe file of this python code:
+In windows,type this command inn command prompt.
+cmd command: pyinstaller --onefile -F --hidden-import "babel.numbers" project_name.py
+
